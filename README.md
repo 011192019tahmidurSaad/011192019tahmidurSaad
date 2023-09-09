@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahmidur Rahman Saad.</h1>
 <h3 align="center">A passionate programmer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **PHP,javafx,javaswing**
+- 🌱 I’m currently learning **PHP,javafx,MySQL,Javascript,HTML,CSS**
 
 - 📫 How to reach me **saadtahmidur@gmail.com**
 
