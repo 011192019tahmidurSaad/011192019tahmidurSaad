@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tahmidur Rahman Saad.</h1>
 <h3 align="center">A passionate programmer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **PHP,javafx,MySQL,Javascript,HTML,CSS**
+- 🌱 I’m currently learning **Python,Django,MySQL,DRF**
 
-- 📫 How to reach me **saadtahmidur@gmail.com**
+- 📫 How to reach me **tahmidursaad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
